@@ -41,3 +41,8 @@ Numbeo (or mock dataset)
 Kiwi Tequila (Flights)
 
 Exchangerate.host
+
+<img width="1897" height="749" alt="Screenshot 2025-10-21 142321" src="https://github.com/user-attachments/assets/5f0cc5eb-adc7-44ae-b09b-a9fe48286405" />
+
+<img width="1889" height="762" alt="Screenshot 2025-10-21 142419" src="https://github.com/user-attachments/assets/521e90a2-9d15-4c8a-bede-e072f05dfd0e" />
+
